@@ -1,3 +1,3 @@
 # NeetCode Solutions — @EmreJMeydan
 
-Done in Python / C++
+All the Solutions are for python and C++ DSA practice.
